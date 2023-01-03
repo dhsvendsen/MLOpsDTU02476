@@ -38,7 +38,7 @@ def train(lr, epochs):
     losses = []
     for epoch in range(epochs):
         running_loss = 0
-        for i, (images, labels) in enumerate(train_set):
+        for images, labels in train_set:
             # origin shape: [4, 3, 32, 32] = 4, 3, 1024
             # input_layer: 3 input channels, 6 output channels, 5 kernel size
             # Forward pass
