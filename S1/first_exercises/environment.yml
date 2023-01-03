@@ -1,0 +1,18 @@
+# packages in environment at /Users/danielsvendsen/miniforge3/envs/mlops02476:
+#
+# Name                    Version                   Build  Channel
+bzip2                     1.0.8                h3422bc3_4    conda-forge
+ca-certificates           2022.12.7            h4653dfc_0    conda-forge
+libffi                    3.4.2                h3422bc3_5    conda-forge
+libsqlite                 3.40.0               h76d750c_0    conda-forge
+libzlib                   1.2.13               h03a7124_4    conda-forge
+ncurses                   6.3                  h07bb92c_1    conda-forge
+openssl                   3.0.7                h03a7124_1    conda-forge
+pip                       22.3.1             pyhd8ed1ab_0    conda-forge
+python                    3.11.0          h93c2e33_0_cpython    conda-forge
+readline                  8.1.2                h46ed386_0    conda-forge
+setuptools                65.6.3             pyhd8ed1ab_0    conda-forge
+tk                        8.6.12               he1e0b03_0    conda-forge
+tzdata                    2022g                h191b570_0    conda-forge
+wheel                     0.38.4             pyhd8ed1ab_0    conda-forge
+xz                        5.2.6                h57fd34a_0    conda-forge
